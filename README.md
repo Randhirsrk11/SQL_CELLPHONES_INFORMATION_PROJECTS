@@ -2,7 +2,7 @@
 
 
 I Uploaded 2 sql file , first one is code and solution of all questions that are shown below. And 2nd one is database of "CellPhone_Information" on that database there are
-5 different type of tables.
+6 different type of tables.
 
 Business Scenario: The database “Cellphones Information” contains details on
 cell phone sales or transactions.
